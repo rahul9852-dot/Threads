@@ -28,6 +28,4 @@ This comprehensive project aims to equip participants with advanced skills in we
 
 - **Solid Application Architecture:** Build a solid and scalable application architecture that adheres to best practices and industry standards.
 
-- **Deployment:** Learn how to deploy your application, ensuring it is accessible to users on the internet.
-
 This project offers a comprehensive journey through advanced web development concepts, empowering you to build high-quality web applications with Next.js, MongoDB, TailwindCSS, and various other cutting-edge technologies. By the end of this project, you will have the skills and knowledge to tackle complex web development projects confidently.
