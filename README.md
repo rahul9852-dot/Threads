@@ -2,8 +2,7 @@
 ![Project Image]()
 ## Next.js 13.4 with Server-Side Rendering
 
-This comprehensive project aims to equip participants with advanced skills in web development, focusing on Next.js 13.4 with an emphasis on Server-Side Rendering. Throughout the project, you will explore various technologies and techniques to build a robust web application. Here's an overview of what you will learn and achieve:
-
+This comprehensive project aims to equip with advanced skills in web development, focusing on Next.js 13.4 with an emphasis on Server-Side Rendering.
 - **MongoDB Expertise:** You will gain proficiency in handling complex schemas and managing multiple data population scenarios using MongoDB, a popular NoSQL database.
 
 - **UI Design with TailwindCSS:** Learn to create visually appealing and responsive layouts using TailwindCSS, a utility-first CSS framework.
