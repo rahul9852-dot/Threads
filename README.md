@@ -1,6 +1,5 @@
 
 ![Project Image]()
-## Next.js 13.4 with Server-Side Rendering
 
 This comprehensive project aims to equip with advanced skills in web development, focusing on Next.js 13.4 with an emphasis on Server-Side Rendering.
 
